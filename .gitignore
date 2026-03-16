@@ -1,0 +1,22 @@
+# Ignore dependencies/build outputs everywhere
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# Env / secrets
+**/.env
+**/.env.*
+
+# Logs
+*.log
+logs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
